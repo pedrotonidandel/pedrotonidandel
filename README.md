@@ -1,10 +1,27 @@
-# Hi, I'm Pedro! :D
+```js
+import Desenvolvedor from "Rocket";
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrotonidandel)](https://github.com/pedrotonidandel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotonidandel/)](https://www.linkedin.com/in/pedrotonidandel/)
+class SobreMim extends Desenvolvedor {
+  nome = "Pedro H. T. Campos";
+  area = "integration analyst";
+  trabalho = "[@Hi Platform](https://www.hiplatform.com/)";
+  local = "Pará de Minas - MG";
+}
 
-### About me
-I'm a {backend and frontend} developer and integration analyst at [@Hi Platform](https://www.hiplatform.com/).
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript, Python"];
+  aplicações = ["NodeJS"];
+  frameworks = ["Express.js"];
+}
+```
 
-- [Courses] 👨🏼‍🏫 - I have knowledges on many technologies, such as Javascript, NodeJS, Git and more
-- [Website] 💻 - Working on it.
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caampos99@gmail.com" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotonidandel/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrotonidandel/"/></a>
+</p>
