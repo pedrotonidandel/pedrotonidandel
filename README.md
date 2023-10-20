@@ -15,6 +15,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+<<<<<<< HEAD
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caampos99@gmail.com" /></a>
@@ -25,3 +26,7 @@ class Skills extends Desenvolvedor {
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrotonidandel/"/></a>
 </p>
+=======
+- [Courses] 👨🏼‍🏫 - I have knowledges on many technologies, such as Javascript, NodeJS, Python and more
+- [Website] 💻 - Working on it.
+>>>>>>> 786bf68370d873d8b9cbcc51195c292ec3c7198c
