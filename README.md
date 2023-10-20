@@ -6,5 +6,5 @@
 ### About me
 I'm a {backend and frontend} developer and integration analyst at [@Hi Platform](https://www.hiplatform.com/).
 
-- [Courses] 👨🏼‍🏫 - I have knowledges on many technologies, such as Javascript, NodeJS, Git and more
+- [Courses] 👨🏼‍🏫 - I have knowledges on many technologies, such as Javascript, NodeJS, Python and more
 - [Website] 💻 - Working on it.
