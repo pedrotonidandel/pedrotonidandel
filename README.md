@@ -36,6 +36,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotonidandel/)](https://www.linkedin.com/in/pedrotonidandel/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caampos99@gmail.com)](mailto:caampos99@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/pedrotonidandel)
+[![Linkedin](https://img.shields.io/badge/-pedrotonidandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotonidandel/)](https://www.linkedin.com/in/pedrotonidandel/)
+[![Gmail Badge](https://img.shields.io/badge/-caampos99@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caampos99@gmail.com)](mailto:caampos99@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/pedrotonidandel?label=follow&style=social)](https://github.com/pedrotonidandel)
