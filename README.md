@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciência da Computação** no <a href="https://site.uit.br">Universidade de Itaúna</a>.
+- 🎓 Bacharel em **Ciência da Computação** pela <a href="https://site.uit.br">Universidade de Itaúna</a>.
 - 💼 Trabalhando como **Analista de Integração** na <a href="https://www.hiplatform.com/">Hi Platform</a>
 
 <h3>Minhas Skills</h3>
