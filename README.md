@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Bacharel em **Ciência da Computação** pela <a href="https://site.uit.br">Universidade de Itaúna</a>.
-- 💼 Trabalhando como **Analista de Integração** na <a href="https://www.hiplatform.com/">Hi Platform</a>
+- 💼 Trabalhando como **Analista de Integração** na <a href="https://www.leangroup.com/solutions-and-services/technology">Lean Tech</a>
 
 <h3>Minhas Skills</h3>
 
